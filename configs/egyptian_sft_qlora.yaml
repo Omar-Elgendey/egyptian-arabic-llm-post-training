@@ -24,8 +24,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /content/drive/MyDrive/ds/models/egyptian-qwen-sft
-
+output_dir: /content/drive/MyDrive/ds/models/egyptian-qwen-sft-200k
 logging_steps: 10
 
 save_strategy: steps
