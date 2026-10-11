@@ -18,7 +18,7 @@ pref_beta: 0.1
 pref_loss: sigmoid
 
 ### dataset
-dataset_dir: /content/dpo_data
+dataset_dir: /content/LLaMA-Factory/data
 dataset: egyptian_dpo
 eval_dataset: egyptian_dpo_eval
 
