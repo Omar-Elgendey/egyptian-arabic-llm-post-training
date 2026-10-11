@@ -1,0 +1,22 @@
+{
+  "egyptian_dpo": {
+    "file_name": "dpo_train.jsonl",
+    "formatting": "alpaca",
+    "ranking": true,
+    "columns": {
+      "prompt": "prompt",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "egyptian_dpo_eval": {
+    "file_name": "dpo_eval.jsonl",
+    "formatting": "alpaca",
+    "ranking": true,
+    "columns": {
+      "prompt": "prompt",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  }
+}
